@@ -1,4 +1,4 @@
-// UIViewController view management
+// UIViewController view life cycle
 // Initialization and presentation of controller's view
 //
 // IDECodeSnippetCompletionPrefix: view
