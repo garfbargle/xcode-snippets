@@ -1,4 +1,4 @@
-// UITableViewDelegate
+// TableView Delegate
 // Table view delegate
 //
 // IDECodeSnippetCompletionPrefix: tableviewdelegate
