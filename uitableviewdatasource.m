@@ -1,4 +1,4 @@
-// UITableViewDataSource
+// TableView DataSource
 // Table view data source methods
 //
 // IDECodeSnippetCompletionPrefix: tableviewdatasource
