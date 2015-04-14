@@ -1,4 +1,4 @@
-// TableView DataSource
+// TableView Data Source
 // Table view data source methods
 //
 // IDECodeSnippetCompletionPrefix: tableviewdatasource
